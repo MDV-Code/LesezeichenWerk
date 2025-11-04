@@ -25,7 +25,7 @@ Maximale Übersicht, minimale Reibung. Weniger Tabs, mehr Fokus.
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/dein-user/lesezeichenwerk.git
+git clone https://github.com/MDV-Code/lesezeichenwerk.git
 cd lesezeichenwerk
 ```
 

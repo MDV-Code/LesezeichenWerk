@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Google",
+        "url": "https://www.google.com"
+    },
+    {
+        "name": "YouTube",
+        "url": "https://www.youtube.com"
+    },
+    {
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org"
+    },
+    {
+        "name": "GitHub",
+        "url": "https://github.com"
+    },
+    {
+        "name": "Amazon",
+        "url": "https://www.amazon.de"
+    },
+    {
+        "name": "Facebook",
+        "url": "https://www.facebook.com"
+    },
+    {
+        "name": "Twitter",
+        "url": "https://twitter.com"
+    },
+    {
+        "name": "Instagram",
+        "url": "https://www.instagram.com"
+    },
+    {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com"
+    },
+    {
+        "name": "Reddit",
+        "url": "https://www.reddit.com"
+    },
+    {
+        "name": "Netflix",
+        "url": "https://www.netflix.com"
+    },
+    {
+        "name": "Spotify",
+        "url": "https://open.spotify.com"
+    },
+    {
+        "name": "Gmail",
+        "url": "https://mail.google.com"
+    },
+    {
+        "name": "Outlook",
+        "url": "https://outlook.live.com"
+    },
+    {
+        "name": "DeepL Translator",
+        "url": "https://www.deepl.com/translator"
+    }
+]
